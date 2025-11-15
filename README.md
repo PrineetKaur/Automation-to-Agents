@@ -1,4 +1,4 @@
-# Agentic AI — Technical White Paper & Documentation Repository
+# Agentic AI _(Technical White Paper & Documentation Repository)_
 
 This repository contains a complete technical deep-dive into **Agentic AI**, including a white paper, visual diagrams, and a full documentation suite suitable for professional and GitHub portfolio use.
 
