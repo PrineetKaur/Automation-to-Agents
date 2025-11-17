@@ -6,14 +6,14 @@ Evaluating agents is fundamentally different from evaluating static LLM output.
 
 ### 1. Evaluation Dimensions
 
-- factual correctness  
-- grounding  
-- safety  
-- action correctness  
-- tool performance  
-- latency  
-- plan efficiency  
-- stability across runs  
+- Factual correctness  
+- Grounding  
+- Safety  
+- Action correctness  
+- Tool performance  
+- Latency  
+- Plan efficiency  
+- Stability across runs  
 
 ---
 
@@ -30,16 +30,16 @@ Evaluating agents is fundamentally different from evaluating static LLM output.
 
 ### 3. Evaluation Types
 
-### **Static Evaluation**
+- #### **Static Evaluation**
 Predefined question-answer tests.
 
-### **Dynamic Evaluation**
+- #### **Dynamic Evaluation**
 Interactive or multi-step tasks.
 
-### **Simulated Environments**
+- #### **Simulated Environments**
 Sandboxes for safe tool testing.
 
-### **Human Evaluation**
+- #### **Human Evaluation**
 Used for quality, style, or risk-sensitive tasks.
 
 ---
