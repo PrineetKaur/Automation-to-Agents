@@ -63,13 +63,6 @@ These are referenced inside the visual white paper and docs.
 
 ---
 
-## 👩‍💻 Author
-
-Technical Writer: **Prineet Kaur**  
-GitHub Portfolio & Agentic AI Documentation Suite.
-
----
-
 ## How to Use This Repo
 
 - Add it to your GitHub portfolio  
